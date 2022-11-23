@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669047517 source:c:\my drive\code block\attendance tracking sys\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<string.h>
+
